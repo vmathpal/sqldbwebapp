@@ -1,0 +1,13 @@
+/Users/apple/Downloads/sqlapp-db/publish/sqlapp
+/Users/apple/Downloads/sqlapp-db/publish/appsettings.Development.json
+/Users/apple/Downloads/sqlapp-db/publish/appsettings.json
+/Users/apple/Downloads/sqlapp-db/publish/sqlapp.dll
+/Users/apple/Downloads/sqlapp-db/publish/sqlapp.deps.json
+/Users/apple/Downloads/sqlapp-db/publish/sqlapp.runtimeconfig.json
+/Users/apple/Downloads/sqlapp-db/publish/sqlapp.pdb
+/Users/apple/Downloads/sqlapp-db/publish/System.Data.SqlClient.dll
+/Users/apple/Downloads/sqlapp-db/publish/runtimes/win-arm64/native/sni.dll
+/Users/apple/Downloads/sqlapp-db/publish/runtimes/win-x64/native/sni.dll
+/Users/apple/Downloads/sqlapp-db/publish/runtimes/win-x86/native/sni.dll
+/Users/apple/Downloads/sqlapp-db/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/apple/Downloads/sqlapp-db/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
